@@ -216,24 +216,16 @@ const Home = ({posts}) => (
   <div className="contanier">
     <h1>Mors Et Vita!</h1>
     
-    <div className="slidershow middle">
-
-    <div className="navi">
-        <label for="r1" id="bar1" onClick={vision1}></label>
-        <label for="r2" id="bar2" onClick={vision2}></label>
-        <label for="r3" id="bar3" onClick={vision3}></label>
-
-      </div>
     
+
+   
 
 
     
-    <div className="slides">
+    <div className="contanier-vision">
 
 
-      <input type="radio" name="r" id="r1" ></input>
-      <input type="radio" name="r" id="r2"></input>
-      <input type="radio" name="r" id="r3"></input>
+      
 
       <div id='blogs-vision1' style={{backgroundImage:`url(${posts[0].back})`,
       backgroundRepeat:'no-repeat',
@@ -265,53 +257,6 @@ const Home = ({posts}) => (
 
       
 
-      <div id='blogs-vision2'  style={{backgroundImage:`url(${posts[1].back})`,
-      backgroundRepeat:'no-repeat',
-      backgroundSize:'cover',
-      backgroundPosition:'center'
-    }}>
-
-        <h2 className="hero-title">
-        <Link href={posts[1].slug}>
-          <a>{posts[1].title}</a>
-
-      </Link>
-      </h2>
-  
-          <div className="blog-date">
-         <p>
-         {posts[1].date}
-         </p>
-        </div>
-
-
-
-          </div> 
-
-    <div id='blogs-vision3'  style={{backgroundImage:`url(${posts[2].back})`,
-      backgroundRepeat:'no-repeat',
-      backgroundSize:'cover',
-      backgroundPosition:'center'
-    }} >
-
-      <h2 className="hero-title">
-        <Link href={posts[2].slug}>
-          <a>{posts[2].title}</a>
-
-        </Link>
-      </h2>
-        
-      <div className="blog-date">
-        <p>
-        {posts[2].date}
-        </p>
-      </div>
-      
-    
-      
-      </div> 
-
-      </div>
 
     
 
@@ -491,6 +436,7 @@ input[name='r']{
   max-width:370px;
   width:100%;
   margin:20px;
+  padding-right:10px;
   float:left;
 }
 
@@ -552,34 +498,6 @@ img {
   
 }
 
-#blogs-vision2{
-  border-radius: 10px 20px;
-  border: solid 1px #cccccc;
-  max-width:675px;
-  width:100%;
-  float:center;
-  margin :10px;
-  transition: .6s;
-  height:270px;
-
- 
-
-
-  
-}
-
-#blogs-vision3{
-  border-radius: 10px 20px;
-  border: solid 1px #cccccc;
-  max-width:675px;
-  width:100%;
-  float:center;
-  margin :10px;
-  height:270px;
-  transition: .6s;
-
-  
-}
 
 .contanier-vision{
   margin:20px;
