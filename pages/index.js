@@ -152,7 +152,7 @@ import Link from 'next/link'
 
 
 
-var storage = 2;
+var storage = 0;
 
 const vision1 = () => {
  
@@ -435,8 +435,8 @@ input[name='r']{
   border: solid 1px #cccccc;
   max-width:370px;
   width:100%;
-  margin:20px;
-  padding-right:10px;
+  margin-right:10px;
+  margin:10px;
   float:left;
 }
 
@@ -466,7 +466,7 @@ input[name='r']{
   width:100%;
   border-radius: 10px 20px;
   border: .3px solid  #f45c73;
-  margin: 0 auto;
+  margin: 1 auto;
 
 }
 
@@ -500,10 +500,10 @@ img {
 
 
 .contanier-vision{
-  margin:20px;
+  margin:10px;
   border-radius: 15px 30px;
   border : 2px solid #cccccc;
-  max-width:650px;
+  max-width:670px;
   width:100%;
   text-align:center;
   display:inline-block
