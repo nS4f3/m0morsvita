@@ -336,90 +336,6 @@ const Home = ({posts}) => (
 
  
 
-.slidershow {
-  max-width:700px;
-  width:100%;
-  height:300px;
-  overflow:hidden;
-  margin 0 auto;
-  margin-bottom:30px;
-}
-
-.middle{
-  text-align:center;
-
-}
-
-.navi {
-  position:relative;
-  top:80%;
-  left:40%;
-  width:100%;
-  max-width:450px;
-  height:10px;
-  display:flex;
-
-}
-#bar1 {
-  max-width:40px;
-  width:100%;
-  height:10px;
-  border: solid #cccccc 1px;
-  cursor:pointer;
-  transition: 0.4s;
-  border-radius: 8px 1px;
-}
-
-#bar2 {
-  max-width:40px;
-  width:100%;
-  height:10px;
-  border: solid #cccccc 1px;
-  cursor:pointer;
-  transition: 0.4s;
-  border-radius: 8px 1px;
-}
-
-#bar3 {
-  max-width:40px;
-  width:100%;
-  height:10px;
-  border: solid #cccccc 1px;
-  cursor:pointer;
-  transition: 0.4s;
-  border-radius: 8px 1px;
-}
-
-
-#bar1:hover{
-  background-color: #e67e22 ;
-
-}
-#bar2:hover{
-  background-color: #e67e22 ;
-
-}
-#bar3:hover{
-  background-color: #e67e22 ;
-
-}
-
-input[name='r']{
-  position:absolute;
-  top:20px;
-  visibility:hidden;
-
-  
-
-}
-
-.slides{
-  display:inline-flex;
-  max-witdh:210px;
-  width:670%;
-  transition: .5s;
-
-}
 
 
 .hero-title {
@@ -437,7 +353,6 @@ input[name='r']{
   width:100%;
   margin-right:10px;
   margin:10px;
-  float:left;
 }
 
 .blog-date {
@@ -466,7 +381,7 @@ input[name='r']{
   width:100%;
   border-radius: 10px 20px;
   border: .3px solid  #f45c73;
-  margin: 1 auto;
+  margin: 0 auto;
 
 }
 
@@ -486,12 +401,11 @@ img {
 #blogs-vision1{
   border-radius: 10px 20px;
   border: solid 1px #cccccc;
-  max-width:675px;
+  max-width:670px;
   width:100%;
   float:center;
   margin :10px;
-  height:270px;
-  transition: .6s;
+
 
   
 
@@ -506,7 +420,6 @@ img {
   max-width:670px;
   width:100%;
   text-align:center;
-  display:inline-block
   
 
 }
@@ -517,7 +430,7 @@ img {
   max-width:800px;
   width:100%;
   text-align:center;
-  display:inline-block;
+
   
 
 
