@@ -420,6 +420,7 @@ img {
   max-width:670px;
   width:100%;
   text-align:center;
+  display:inline-block
   
 
 }
@@ -430,7 +431,7 @@ img {
   max-width:800px;
   width:100%;
   text-align:center;
-
+  display:inline-block;
   
 
 
