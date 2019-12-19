@@ -466,6 +466,7 @@ input[name='r']{
   border-radius: 10px 20px;
   border: .3px solid  #f45c73;
   margin: 0 auto;
+  margin-bottom:10px;
 
 }
 
