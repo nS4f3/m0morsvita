@@ -433,6 +433,7 @@ input[name='r']{
   border: solid 1px #cccccc;
   max-width:325px;
   width:100%;
+  height:135px;
   margin-right:10px;
   margin:10px;
   float:left;
@@ -510,6 +511,7 @@ img {
   text-align:center;
   display:inline-block;
   margin:0 auto;
+  margin-bottom:15px;
 
 }
 .contanier-all {

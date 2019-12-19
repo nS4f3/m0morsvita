@@ -54,6 +54,7 @@ const Blog = ({post}) => (
     width:100%;
     margin:10px;
     margin-top:30px;
+    margin: 0 auto;
   }
   
   .Blog-title {
@@ -103,7 +104,8 @@ const Blog = ({post}) => (
   
   .contanier {
     align-items:center;
-    text-align:center
+    text-align:center;
+    margin: 0 auto;
   }
   
   .footer {
