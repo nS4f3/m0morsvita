@@ -288,7 +288,11 @@ const Home = ({posts}) => (
       
       return(
 
-      <div className="blogs-all">
+      <div className="blogs-all" style={{backgroundImage:`url(${post.back})`,
+      backgroundRepeat:'no-repeat',
+      backgroundSize:'cover',
+      backgroundPosition:'center'
+    }} >
 
 
         <div className="blog-title-link">
