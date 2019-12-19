@@ -3,9 +3,6 @@ import fetch from 'isomorphic-unfetch'
 import Link from 'next/link'
 
 
-if(screen.width<700){
-  document.location = "";
-}
 
 
 
