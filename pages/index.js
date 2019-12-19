@@ -336,6 +336,84 @@ const Home = ({posts}) => (
 
  
 
+.slidershow {
+  max-width:700px;
+  width:100%;
+  height:300px;
+  overflow:hidden;
+  margin 0 auto;
+  margin-bottom:30px;
+}
+
+.middle{
+  text-align:center;
+
+}
+
+.navi {
+  position:relative;
+  top:80%;
+  left:40%;
+  width:100%;
+  max-width:450px;
+  height:10px;
+  display:flex;
+
+}
+#bar1 {
+  max-width:40px;
+  width:100%;
+  height:10px;
+  border: solid #cccccc 1px;
+  cursor:pointer;
+  transition: 0.4s;
+  border-radius: 8px 1px;
+}
+
+#bar2 {
+  max-width:40px;
+  width:100%;
+  height:10px;
+  border: solid #cccccc 1px;
+  cursor:pointer;
+  transition: 0.4s;
+  border-radius: 8px 1px;
+}
+
+#bar3 {
+  max-width:40px;
+  width:100%;
+  height:10px;
+  border: solid #cccccc 1px;
+  cursor:pointer;
+  transition: 0.4s;
+  border-radius: 8px 1px;
+}
+
+
+#bar1:hover{
+  background-color: #e67e22 ;
+
+}
+#bar2:hover{
+  background-color: #e67e22 ;
+
+}
+#bar3:hover{
+  background-color: #e67e22 ;
+
+}
+
+input[name='r']{
+  position:absolute;
+  top:20px;
+  visibility:hidden;
+
+  
+
+}
+
+
 
 
 .hero-title {
@@ -405,7 +483,8 @@ img {
   width:100%;
   float:center;
   margin :10px;
-
+  height:270px;
+  transition: .6s;
 
   
 
