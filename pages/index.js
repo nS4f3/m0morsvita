@@ -431,6 +431,7 @@ input[name='r']{
   width:100%;
   margin-right:10px;
   margin:10px;
+  float:left;
 }
 
 .blog-date {
@@ -463,6 +464,8 @@ input[name='r']{
 
 }
 
+
+
 img {
   position:relative;
   width:100%;
@@ -485,6 +488,7 @@ img {
   margin :10px;
   height:270px;
   transition: .6s;
+  margin: 0 auto;
 
   
 
@@ -496,11 +500,12 @@ img {
   margin:10px;
   border-radius: 15px 30px;
   border : 2px solid #cccccc;
-  max-width:670px;
+  max-width:690px;
   width:100%;
+  height:270px;
   text-align:center;
-  display:inline-block
-  
+  display:inline-block;
+  margin:0 auto;
 
 }
 .contanier-all {
@@ -511,6 +516,7 @@ img {
   width:100%;
   text-align:center;
   display:inline-block;
+  margin: 0 auto;
   
 
 
@@ -519,7 +525,7 @@ img {
 
 .contanier {
   align-items:center;
-  text-align:center
+  text-align:center;
 }
 
 .footer {
