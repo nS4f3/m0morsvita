@@ -499,7 +499,7 @@ img {
 .contanier-vision{
   margin:10px;
   border-radius: 15px 30px;
-  border : 2px solid #cccccc;
+  border : 0.1px solid #cccccc;
   max-width:690px;
   width:100%;
   height:270px;
@@ -512,7 +512,7 @@ img {
   margin:20px;
   border-radius: 15px 30px;
   border : 2px solid #cccccc;
-  max-width:800px;
+  max-width:370px;
   width:100%;
   text-align:center;
   display:inline-block;
