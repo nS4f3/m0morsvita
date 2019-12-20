@@ -475,10 +475,8 @@ input[name='r']{
 
 
 img {
-  position:relative;
   width:100%;
-  height:20%;
-  z-index:-1;
+  height:40%;
 
 }
 
@@ -547,7 +545,7 @@ img {
   height: 300px;
   text-align:center;
   margin: 0 auto;
-  margin: 3px;
+  margin: 1px;
   
 
  
