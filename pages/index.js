@@ -334,6 +334,9 @@ const Home = ({posts}) => (
         footore
       </p>
 
+
+      <img src="../public/static/images/heartm.png"></img>
+
     </div>
     <style global jsx>{`
 
@@ -539,13 +542,12 @@ img {
 
   border-radius: 15px 30px;
   border : 1px solid #cccccc;
-  max-width:400px;
+  max-width:370px;
   width:100%;
-  height: 500px;
+  height: 300px;
   text-align:center;
   margin: 0 auto;
-  margin: 10px;
-  background-color:black;
+  margin: 3px;
   
 
  
