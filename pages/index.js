@@ -326,13 +326,15 @@ const Home = ({posts}) => (
 
     </div>
 
+    <script data-ad-client="ca-pub-6263243641963295" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+
 
 
 
     <div className="footer">
-      <p>
+      <h3>
         Mors et Vita!
-      </p>
+      </h3>
 
 
       <img src="/static/images/heartm.png"></img>
@@ -341,6 +343,13 @@ const Home = ({posts}) => (
     <style global jsx>{`
 
  
+h3 {
+
+  color: white;
+  font-size:14px;
+  margin: 0 auto;
+  margin-bottom: 10px;
+}
 
 .slidershow {
   max-width:700px;
@@ -475,7 +484,7 @@ input[name='r']{
 
 
 img {
-  width:50%;
+  width:30%;
   height:60%;
   margin: 0 auto;
 
@@ -543,11 +552,11 @@ img {
   border : 1px solid #cccccc;
   max-width:370px;
   width:100%;
-  height: 300px;
+  height: 250px;
   text-align:center;
   margin: 0 auto;
   margin: 1px;
-  background-color: #FB2121;
+  background-color: #424242;
   
 
  
