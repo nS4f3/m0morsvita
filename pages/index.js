@@ -331,7 +331,7 @@ const Home = ({posts}) => (
 
     <div className="footer">
       <p>
-        footore
+        Mors et Vita!
       </p>
 
 
@@ -475,7 +475,7 @@ input[name='r']{
 
 
 img {
-  width:80%;
+  width:50%;
   height:60%;
   margin: 0 auto;
 
