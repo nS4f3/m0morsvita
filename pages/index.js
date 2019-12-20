@@ -335,7 +335,7 @@ const Home = ({posts}) => (
       </p>
 
 
-      <img src="../public/static/images/heartm.png"></img>
+      <img src="/static/images/heartm.png"></img>
 
     </div>
     <style global jsx>{`
@@ -475,8 +475,9 @@ input[name='r']{
 
 
 img {
-  width:100%;
-  height:40%;
+  width:80%;
+  height:60%;
+  margin: 0 auto;
 
 }
 
