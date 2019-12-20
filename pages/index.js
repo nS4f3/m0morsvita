@@ -556,7 +556,7 @@ img {
   text-align:center;
   margin: 0 auto;
   margin: 1px;
-  background-color: #424242;
+  background-color: #A4A4A4;
   
 
  
@@ -569,7 +569,7 @@ ul li {
 
 a {
   text-decoration:none;
-  color:   #f06540 ;
+  color: red ;
 }
 
 
