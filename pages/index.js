@@ -545,6 +545,7 @@ img {
   text-align:center;
   margin: 0 auto;
   margin: 10px;
+  background-color:black;
   
 
  
