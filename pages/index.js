@@ -547,7 +547,7 @@ img {
   text-align:center;
   margin: 0 auto;
   margin: 1px;
-  background-color: #857B7B;
+  background-color: #FB2121;
   
 
  
