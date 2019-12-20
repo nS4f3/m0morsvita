@@ -544,6 +544,7 @@ img {
   height: 500px;
   text-align:center;
   margin: 0 auto;
+  margin: 10px;
   
 
  
