@@ -538,8 +538,8 @@ img {
 
 
   border-radius: 15px 30px;
-  border : .2px solid #cccccc;
-  max-width:800px;
+  border : 1px solid #cccccc;
+  max-width:400px;
   width:100%;
   height: 500px;
   text-align:center;
