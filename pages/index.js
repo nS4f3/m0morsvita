@@ -330,10 +330,9 @@ const Home = ({posts}) => (
 
 
     <div className="footer">
-      <ul>
-        <li><a href="test"></a></li>
-
-      </ul>
+      <p>
+        footore
+      </p>
 
     </div>
     <style global jsx>{`
@@ -542,6 +541,7 @@ img {
   border : .2px solid #cccccc;
   max-width:800px;
   width:100%;
+  height: 500px;
   text-align:center;
   margin: 0 auto;
   
