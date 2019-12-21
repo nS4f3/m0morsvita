@@ -27,3 +27,6 @@ Atmaktan -zorla yapışından- sıkılmışken kalp, **AŞKLA** atmaya başlar. 
 En güzen **HAYAT** ölümden sonraki **HAYATMIŞ**. Ben *AŞIK* olabileceğim en güzel **ŞEYE** *AŞIK* oldum. **Sen** aşık olmak için bekledikçe kaybedeceksin. Bir şeye **AŞIK** ol. Önemli olan bunu kontrol edemeyişin. Yapabildiğin kadar çeşitli şeyler yap. Gidebildiğin kadar uzağa git. Bir gün **O** bakış sana da çarpar. İnsan olmak zorunda değil o bakışı saçan. Belki bir hayali karakter olur belki de bir ağaç belki gökyüzü belki de **GÜNEŞ**...
 
 
+
+Bana sorarsanız ben bir **MELEĞE** Aşığım. Mikailin toprağa hayat verişi gibi canlandırdı **HAYATIMI**. Azrailin can alışı gibi canını aldı korkuların. Çok seveceksin ama konrol edemeyeceksin. *AŞK* sahip olabileceğin en **kıymatli** şey olacak....
+
