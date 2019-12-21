@@ -6,7 +6,7 @@ export const getPosts = () => {
         title:"Neden AŞK?",
         slug:"neden-ask",
         details:require('./posts/neden-ask.md').default,
-        date:"15 Haziran 2019",
+        date:"21 Aralık 2019",
         back: "/static/images/neden.png",
 
  },
