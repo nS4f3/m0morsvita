@@ -146,8 +146,8 @@ const Blog = ({post}) => (
   }
 
   img {
-    heigh:80%;
-    width:40%;
+    heigh:100%;
+    width:100%;
     margin:0 auot;
     marin: 5px;
   }
