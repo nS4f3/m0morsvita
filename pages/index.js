@@ -340,6 +340,9 @@ const Home = ({posts}) => (
       <img src="/static/images/heartm.png"></img>
 
     </div>
+
+    <p className="develop">Developed by</p>
+    <h3>Mors et Vita!</h3>
     <style global jsx>{`
 
  
@@ -349,6 +352,12 @@ h3 {
   font-size:14px;
   margin: 0 auto;
   margin-bottom: 10px;
+}
+
+.develop {
+  color:white;
+  font-size:12px;
+  margin: 0 auto;
 }
 
 .slidershow {
