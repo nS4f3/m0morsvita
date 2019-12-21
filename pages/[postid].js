@@ -69,6 +69,7 @@ const Blog = ({post}) => (
     margin:10px;
     margin-top:30px;
     margin: 0 auto;
+    float:left;
   }
   
   .Blog-title {
