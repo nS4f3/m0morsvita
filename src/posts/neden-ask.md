@@ -1,11 +1,20 @@
-Hayatında her şey yolundadır. Ailenle herhangi bir problemin yoktur. Okulda birincisindir. Kimsenin düşündüklerini takmıyorusundur. Her şey **kusursuzdur** ama **SEN** ölmek istiyorsundur. Umutsuzluk, ümitsizlik, hüzün ...Hiçbir sebebi yokken intihar etmeyi düşünüyorsundur. Üniversite sınavın çok iyi geçmiştir hatta istediğin üniversite bile gelecektir.
+Hayatında her şey yolundadır. Ailenle herhangi bir problemin yoktur. 
+Okulda birincisindir. Kimsenin düşündüklerini takmıyorusundur. Her şey **kusursuzdur** ama **SEN** ölmek istiyorsundur. Umutsuzluk, ümitsizlik, hüzün ...
+Hiçbir sebebi yokken intihar etmeyi düşünüyorsundur. 
+Üniversite sınavın çok iyi geçmiştir hatta istediğin üniversite bile gelecektir.
 
 
-Yine de intihar etmek istiyorsun ta ki **bir** güne kadar. Bir insan girer **HAYATINA** Baştan beridir ordadır aslında ama ışıkları yakacak bir bakışa iytiyaç duyarsın. O gün **O** bakış çarpar gönlüne. Hayat öyle büyük anlam kazanır ki hiçbir şey yolunda gitmese de mutlu olabilirisin. Seni mutlu etmeyen her şey şimdi **deli** gibi mutlu edebilir. 
+Yine de intihar etmek istiyorsun ta ki **bir** güne kadar. 
+Bir insan girer **HAYATINA** Baştan beridir ordadır aslında ama ışıkları yakacak bir bakışa iytiyaç duyarsın. 
+O gün **O** bakış çarpar gönlüne. Hayat öyle büyük anlam kazanır ki hiçbir şey yolunda gitmese de mutlu olabilirisin. 
+Seni mutlu etmeyen her şey şimdi **deli** gibi mutlu edebilir. 
 
 
 
-**İnsan** basit bir et-kemik yığını ya da sosyal ilişkiler ürünü değildir. Kalp basit bir **motor** değildir. Atıp atmaması değildir önemli olan. Kanı pomapalayıp pompalamaması değildir ... Öyle hassas çalışır ki tek bir **bakış** deli gibi **mutluluk** verir ona. 
+**İnsan** basit bir et-kemik yığını ya da sosyal ilişkiler ürünü değildir. 
+Kalp basit bir **motor** değildir. 
+Atıp atmaması değildir önemli olan. Kanı pomapalayıp pompalamaması değildir ... 
+Öyle hassas çalışır ki tek bir **bakış** deli gibi **mutluluk** verir ona. 
 
 
 
