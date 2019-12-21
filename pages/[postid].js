@@ -20,11 +20,21 @@ const Blog = ({post}) => (
       </h2>
     
   
-  
+   
   
   
   
       </div>
+      <div className="devider">
+        
+      </div>
+
+
+      <div className="post-back">
+        <img src={post.back}></img>
+
+      
+    </div>
   
       <div className="devider">
         
@@ -122,6 +132,24 @@ const Blog = ({post}) => (
    
   
   
+  }
+
+
+  .post-back {
+    margin:0 auot;
+    border-radius: 5px 10px;
+    border: solid #cccccc 1px;
+    width:100%;
+    height:250px;
+    margin: 10px;
+
+  }
+
+  img {
+    heigh:80%;
+    width:40%;
+    margin:0 auot;
+    marin: 5px;
   }
   ul li {
     list-style:none;
