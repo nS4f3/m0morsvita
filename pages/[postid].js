@@ -30,8 +30,12 @@ const Blog = ({post}) => (
       </div>
 
 
-      <div className="post-back">
-        <img src={post.back}></img>
+      <div className="post-back" style={{backgroundImage:`url(${post.back})`,
+      backgroundRepeat:'no-repeat',
+      backgroundSize:'cover',
+      backgroundPosition:'center'
+    }}>
+        
 
       
     </div>
@@ -144,12 +148,7 @@ const Blog = ({post}) => (
 
   }
 
-  img {
-    heigh:60%;
-    width:80%;
-    margin:0 auot;
-    marin: 5px;
-  }
+
   ul li {
     list-style:none;
   }

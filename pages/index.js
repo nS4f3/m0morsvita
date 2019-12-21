@@ -339,10 +339,12 @@ const Home = ({posts}) => (
 
       <img src="/static/images/heartm.png"></img>
 
+      <p className="develop">Developed by</p>
+    <h3>Mors et Vita!</h3>
+
     </div>
 
-    <p className="develop">Developed by</p>
-    <h3>Mors et Vita!</h3>
+   
     <style global jsx>{`
 
  
