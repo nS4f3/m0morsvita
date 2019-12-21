@@ -140,8 +140,7 @@ const Blog = ({post}) => (
     border-radius: 5px 10px;
     border: solid #cccccc 1px;
     width:100%;
-    height:250px;
-    margin: 10px;
+    height:200px;
 
   }
 
