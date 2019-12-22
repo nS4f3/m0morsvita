@@ -62,8 +62,6 @@ const Blog = ({post}) => (
       <style global jsx>{`
        
   .blog {
-    border-radius: 10px 20px;
-    border: solid 1px #cccccc;
     max-width:800px;
     width:100%;
     margin:10px;
