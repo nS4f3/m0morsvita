@@ -22,7 +22,7 @@ export const getPosts = () => {
     title:"Hayat (?)",
     slug:"hayat",
     details:require("./posts/hayat.md").default,
-    date:"17 Haziran 2019",
+    date:"20 Aralık 2019",
 
 }
 
