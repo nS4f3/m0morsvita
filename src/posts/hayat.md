@@ -1,1 +1,1 @@
-Halimem seni çok seviyorum AŞKIMMMMMM
+Halimem seni çok seviyorum 
