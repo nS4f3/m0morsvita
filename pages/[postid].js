@@ -69,7 +69,8 @@ const Blog = ({post}) => (
     margin:10px;
     margin-top:30px;
     margin: 0 auto;
-    float:left;
+    text-align:left;
+    font-family: georgia;
   }
   
   .Blog-title {
