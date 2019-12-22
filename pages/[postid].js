@@ -68,7 +68,7 @@ const Blog = ({post}) => (
     margin-top:30px;
     margin: 0 auto;
     text-align:left;
-    font-family: arial;
+    font-family: verdana;
     padding:5px;
   }
   
