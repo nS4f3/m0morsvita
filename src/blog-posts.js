@@ -3,6 +3,15 @@ export const getPosts = () => {
     return [
 
         {
+            title:"Aşkı Anlamak",
+            slug:"askı-anlamak",
+            details:require("./posts/hayat.md").default,
+            date:"20 Aralık 2019",
+            back: "static/images/hayat.png",
+        
+        },
+
+        {
             title:"Hayat (?)",
             slug:"hayat",
             details:require("./posts/hayat.md").default,
