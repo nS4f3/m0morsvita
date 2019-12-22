@@ -23,6 +23,7 @@ export const getPosts = () => {
     slug:"hayat",
     details:require("./posts/hayat.md").default,
     date:"20 Aralık 2019",
+    back: "static/images/hayat.png",
 
 }
 
