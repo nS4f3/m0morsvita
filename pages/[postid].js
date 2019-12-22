@@ -71,6 +71,7 @@ const Blog = ({post}) => (
     margin: 0 auto;
     text-align:left;
     font-family: georgia;
+    padding:5px;
   }
   
   .Blog-title {
