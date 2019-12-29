@@ -538,8 +538,6 @@ img {
 }
 .contanier-all {
   margin:20px;
-  border-radius: 15px 30px;
-  border : 2px solid #cccccc;
   max-width:370px;
   width:100%;
   text-align:center;
