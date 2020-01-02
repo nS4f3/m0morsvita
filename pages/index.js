@@ -326,7 +326,7 @@ const Home = ({posts}) => (
 
     </div>
 
-    <script data-ad-client="ca-pub-6263243641963295" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+    
 
 
 
@@ -337,10 +337,17 @@ const Home = ({posts}) => (
       </h3>
 
 
-      <img src="/static/images/heartm.png"></img>
+      <img className="mors" src="/static/images/heartm.png"></img>
 
       <p className="develop">Developed by</p>
     <h3>Mors et Vita!</h3>
+
+    <link href="https://www.instagram.com/mors_et.vita/">
+      <a>
+        <img src="static/images/insta.png">
+        </img>
+      </a>
+    </link>
 
     </div>
 
@@ -495,12 +502,16 @@ input[name='r']{
 
 
 img {
-  width:30%;
-  height:60%;
   margin: 0 auto;
+ 
 
 }
 
+.mors {
+  width:12%;
+  height:50%;
+  margin: 0 auto;
+}
 
 
 
@@ -561,7 +572,7 @@ img {
   border : 1px solid #cccccc;
   max-width:370px;
   width:100%;
-  height: 250px;
+  height: 200px;
   text-align:center;
   margin: 0 auto;
   margin: 1px;
