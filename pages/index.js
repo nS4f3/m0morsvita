@@ -337,14 +337,14 @@ const Home = ({posts}) => (
       </h3>
 
 
-      <img className="mors" src="/static/images/heartm.png"></img>
+      <img  src="/static/images/heartm.png"></img>
 
       <p className="develop">Developed by</p>
     <h3>Mors et Vita!</h3>
 
     <link href="https://www.instagram.com/mors_et.vita/">
       <a>
-        <img src="static/images/insta.png">
+        <img className="mors" src="static/images/insta.png">
         </img>
       </a>
     </link>
@@ -502,15 +502,18 @@ input[name='r']{
 
 
 img {
+  width:12%;
+  height:50%;
   margin: 0 auto;
  
 
 }
 
 .mors {
-  width:12%;
-  height:50%;
-  margin: 0 auto;
+  width:4%;
+  height:12%;
+  margin:0 auto;
+ 
 }
 
 
