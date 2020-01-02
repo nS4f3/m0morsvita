@@ -503,7 +503,7 @@ input[name='r']{
 
 img {
   width:15%;
-  height:50%;
+  height:45%;
   margin: 0 auto;
  
 
