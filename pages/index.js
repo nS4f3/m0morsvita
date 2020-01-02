@@ -502,7 +502,7 @@ input[name='r']{
 
 
 img {
-  width:12%;
+  width:15%;
   height:50%;
   margin: 0 auto;
  
@@ -510,7 +510,7 @@ img {
 }
 
 .insta {
-  width:4%;
+  width:6%;
   height:12%;
   margin:0 auto;
  
