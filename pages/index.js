@@ -342,12 +342,12 @@ const Home = ({posts}) => (
       <p className="develop">Developed by</p>
     <h3>Mors et Vita!</h3>
 
-    <link href="https://www.instagram.com/mors_et.vita/">
+    <Link href="https://www.instagram.com/mors_et.vita/">
       <a>
-        <img className="mors" src="static/images/insta.png">
+        <img className="insta" src="static/images/insta.png">
         </img>
       </a>
-    </link>
+    </Link>
 
     </div>
 
@@ -509,7 +509,7 @@ img {
 
 }
 
-.mors {
+.insta {
   width:4%;
   height:12%;
   margin:0 auto;
